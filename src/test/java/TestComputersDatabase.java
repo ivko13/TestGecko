@@ -33,6 +33,7 @@ public class TestComputersDatabase {
 
         System.out.println("--- No data test ---");
 
+
         driver.get("http://computer-database.gatling.io/computers");
         System.out.println("01.Successfully open home page");
 
